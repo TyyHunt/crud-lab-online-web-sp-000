@@ -20,7 +20,7 @@ class ReviewInput extends Component {
       text: '',
     });
   }
-  
+
   render() {
     return (
       <div>
