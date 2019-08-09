@@ -23,4 +23,7 @@ class ReviewsContainer extends Component {
   }
 }
 
+const mapStateToProps = ({reviews}) => {
+    return {reviews}
+  }
 export default ReviewsContainer
