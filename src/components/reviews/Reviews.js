@@ -12,11 +12,11 @@ class Reviews extends Component {
     })
 
     return (
-      <ul>
-      <ul>
-        {reviewList}
-      </ul>
-      </ul>
+      <div>
+        <ul>
+          {reviewList}
+        </ul>
+      </div>
     );
   }
 };
