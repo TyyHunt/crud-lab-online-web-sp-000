@@ -24,7 +24,7 @@ class RestaurantInput extends Component {
     });
   }
 
-  
+
   render() {
     return (
       <div>
